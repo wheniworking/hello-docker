@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@RequestMapping("/hello")
 	public String helloWorld(){
-		return "Hello World. This is version 2" ;
+		return "Hello World. This is version 3 " ;
 	}
 
 	public static void main(String[] args) {
